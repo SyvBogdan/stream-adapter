@@ -1,2 +1,4 @@
 rootProject.name = 'stream-adapter'
+include 'api'
+include 'doc'
 
